@@ -17,3 +17,5 @@ pubspec.lock
 flutter_typeahead
 
 doc
+example/ios/Flutter/flutter_export_environment.sh
+example/pubspec.lock
